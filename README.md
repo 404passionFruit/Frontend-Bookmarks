@@ -18,3 +18,10 @@
 ## APIs
 
 [Any API - Documentation and Test Consoles for Over 1400 Public APIs](https://any-api.com/)
+
+
+## Games
+
+### CLI & OS
+
+[Command Challenge](https://cmdchallenge.com)
